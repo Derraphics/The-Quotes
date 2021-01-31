@@ -1,0 +1,16 @@
+button {
+    align-self: center;
+    align-items: center;
+    color: #000000;
+}
+.description{
+    padding-top: 2%;
+}
+.form-control{
+    border-radius: 25px;
+    display: flex;
+}
+.dec{
+    background-color: #dbd7dda2;
+    color: white;
+}
